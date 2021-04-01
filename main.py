@@ -4,6 +4,11 @@ import math
 # importing music
 from pygame import mixer
 
+# Icons made by Freepik www.flaticon.com
+# https://www.freepik.com
+
+# Music: https://www.bensound.com
+
 # Initialise the pygame otherwise the code won't work
 pygame.init()
 
